@@ -19,7 +19,7 @@ Este proyecto implementa un sistema de recolección y clasificación de disposit
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tu_usuario/mushroom-bluetooth-collector.git
+    git clone https://github.com/Babayagga-bite/mushroom-bluetooth-collector.git
     cd mushroom-bluetooth-collector
     ```
 
